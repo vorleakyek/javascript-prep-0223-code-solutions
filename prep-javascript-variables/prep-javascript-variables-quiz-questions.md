@@ -68,7 +68,7 @@ const data = "Howdy"
 for HTML:
 ```html
 <div>
-  <p>This is text content</p>
+  <p>This is text content.</p>
 </div>
 ```
 
